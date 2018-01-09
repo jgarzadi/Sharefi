@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sharefi</string>
+    <string name="wifi_name">Nombre red Wifi</string>
+    <string name="wifi_passcode">Contraseña</string>
+    <string name="wifi_status_label">Estado de red WiFi: </string>
+    <string name="wifi_status">Deshabilitado</string>
+    <string name="label_Save">Guardar</string>
+    <string name="label_Edit">Editar</string>
+    <string name="label_Share">Compartir</string>
+    <string name="dash">-</string>
+    <string name="status_label">Estado</string>
+    <string name="signal_label">Intensidad de señal</string>
+    <string name="speed_label">Velocidad del vínculo</string>
+    <string name="frequency_label">Frecuencia de señal</string>
+    <string name="security_label">Seguridad de señal</string>
+    <string name="new_conn_title">Nueva Red</string>
+    <string name="new_conn_content">Ingresa la contraseña de tu red, al guardar está red, podrás compartir el nombre de tu red y contraseña a tus amigos.</string>
+</resources>
